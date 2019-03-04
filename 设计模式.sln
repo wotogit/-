@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "工厂模式", "工厂模式", "{A1DDB2DD-D186-42F5-92BF-BB9A78AAB741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{3A9F4BD8-0BC2-425F-A6C2-4CA1B3351EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9F4BD8-0BC2-425F-A6C2-4CA1B3351EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9F4BD8-0BC2-425F-A6C2-4CA1B3351EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9F4BD8-0BC2-425F-A6C2-4CA1B3351EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9F4BD8-0BC2-425F-A6C2-4CA1B3351EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A9F4BD8-0BC2-425F-A6C2-4CA1B3351EFD} = {A1DDB2DD-D186-42F5-92BF-BB9A78AAB741}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B9EA51-A86F-4E1D-BAE5-91C0353B0804}
+	EndGlobalSection
+EndGlobal
